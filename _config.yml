@@ -1,6 +1,6 @@
 # Site settings
-title: "David Cunningham"
-description: "CV - David Cunningham"
+title: "Hamza Inayat"
+description: "CV - Hamza Inayat"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "David Cunningham"
+resume_name:                    "Hamza Inayat"
 resume_title:                   "Data Scientist and PhD Candidate"
 
 # used for the contact button in _layouts/resume.html
